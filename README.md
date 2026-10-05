@@ -1,7 +1,7 @@
 <h1 align="center">Rolando Villarreal </h1> 
 
 <p align="left">
-<a href="[www.linkedin.com/in/rolando-villarreal96](https://www.linkedin.com/in/rolando-villarreal96/?isSelfProfile=true)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rolando-villarreal96"/></a>
+<a href="https://www.linkedin.com/in/rolando-villarreal96" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rolando-villarreal96"/></a>
 <a href = "mailto:rolando.villarreal96@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@rolando.villarreal96"  /></a>
   </p>
 <br>
