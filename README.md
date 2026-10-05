@@ -1,8 +1,8 @@
 <h1 align="center">Rolando Villarreal </h1> 
 
 <p align="left">
-<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="RolandoV96"/></a>
-<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@rolando.villarreal96"  /></a>
+<a href="www.linkedin.com/in/rolando-villarreal96" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="RolandoV96"/></a>
+<a href = "mailto:rolando.villarreal96@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@rolando.villarreal96"  /></a>
   </p>
 <br>
 <h2>Sobre mi</h2>
