@@ -8,9 +8,9 @@
 <h2>Sobre mi</h2>
 <!--Intro start-->
 <p align="left">
-
+Software developer jr Data Analyst jr
 <!--Intro end-->
-  </p>
+</p>
 <br>
 
 <h2 >Tecnologías conocidas</h2>
