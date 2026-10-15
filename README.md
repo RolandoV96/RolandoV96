@@ -5,9 +5,10 @@
 <a href = "mailto:rolando.villarreal96@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@rolando.villarreal96"  /></a>
   </p>
 <br>
-<h2>Sobre mi</h2>
+<h2>About Me</h2>
 <!--Intro start-->
-<p align="center">
+<p align="Left">
+  
 - Based in Tamaulipas, Mexico.
 - specializing in data analysis and process optimization.
 - Pursuing an **MBA in Big Data & Business Intelligence** to deepen my expertise in advanced analytics.
