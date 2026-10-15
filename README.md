@@ -30,6 +30,8 @@
     <img decoding="async" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau"/>
     <img decoding="async" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
     <img decoding="async" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly"/>
+    <img decoding="async" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+    <img decoding="async" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   </div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,mysql,html,nodejs,jquery,git,github,perline=12"/>
@@ -38,45 +40,39 @@
 <br>
 <!-------------------------->
 <div id="proyectos">
-<h2 >Algunos proyectos</h2>
-   
-</td>
+<h2 >Recent Projects</h2>
   
-</tr>
-</table>
-  </div>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
+### Operational Efficiency Analysis — Call Me Maybe
+**TripleTen Bootcamp | 2025–2026**
 
+- Analyzed call data from **150+ operators** using Python, pandas, and statistical analysis to identify operational inefficiencies.
+- Developed a percentile-based classification system to assess operator performance, identifying **21% of operators in the highest-risk group**.
+- Delivered data-driven recommendations to improve performance monitoring and operational efficiency.
 
-<h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
+**Technologies:** `Python` `pandas` `Statistical Analysis`
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
-</td>
+---
 
-<td width="40%" align="center">
+### Retail Sales Forecasting
+**TripleTen Bootcamp | 2025–2026**
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+- Analyzed sales trends and patterns using Python, SQL, and machine learning techniques.
+- Built predictive models with **scikit-learn** and evaluated their performance using relevant metrics.
+- Developed **Tableau dashboards** to visualize KPIs, customer behavior, and seasonal trends.
+- Automated parts of the reporting workflow, reducing report generation time by **40%**.
 
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+**Technologies:** `Python` `SQL` `pandas` `scikit-learn` `Tableau` `Machine Learning`
 
-<!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />       
-<!--- stats (end) -->
-</div>
+---
+
+### E-commerce Customer Segmentation
+**TripleTen Bootcamp | 2025–2026**
+
+- Analyzed data from **10,000+ customers** using clustering techniques and the K-means algorithm.
+- Identified **five distinct customer segments** to support behavioral analysis and targeted marketing strategies.
+- Performed RFM and cohort analysis using pandas and matplotlib to evaluate customer value and retention.
+- Generated data-driven segmentation recommendations based on customer behavior patterns.
+
+**Technologies:** `Python` `pandas` `matplotlib` `K-means` `RFM Analysis` `Cohort Analysis`
+
+---
