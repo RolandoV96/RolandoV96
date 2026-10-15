@@ -8,7 +8,10 @@
 <h2>Sobre mi</h2>
 <!--Intro start-->
 <p align="center">
-Software developer jr Data Analyst jr
+- Based in Tamaulipas, Mexico.
+- specializing in data analysis and process optimization.
+- Pursuing an **MBA in Big Data & Business Intelligence** to deepen my expertise in advanced analytics.
+- Passionate about **data visualization**, **machine learning**, **Business Analisis** and creating innovative solutions.
 <!--Intro end-->
 </p>
 <br>
