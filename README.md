@@ -4,7 +4,6 @@
 <a href="https://www.linkedin.com/in/rolando-villarreal96" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rolando-villarreal96"/></a>
 <a href = "mailto:rolando.villarreal96@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@rolando.villarreal96"  /></a>
   </p>
-<br>
 <h2>About Me</h2>
 <!--Intro start-->
 <p align="Left">
@@ -17,19 +16,24 @@
 </p>
 <br>
 
-<h2 >Tecnologías conocidas</h2>
+<h2 >Technical Skills</h2>
 <!--tech stack icons-->
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,html,nodejs,jquery,git,github,perline=12"/>
-  </a>
-  <div>
+
+- **Programming Languages:** Python, SQL, Javascrypt
+- **Data Analysis:** Pandas, Plotly
+- **Visualization Tools:** Tableau, Power BI
+- **Other Tools:** Excel, MySQL 
+<div>
     <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
     <img decoding="async" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" alt="powerbi"/>
     <img decoding="async" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau"/>
     <img decoding="async" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
     <img decoding="async" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly"/>
   </div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mysql,html,nodejs,jquery,git,github,perline=12"/>
+  </a>
 </p>
 <br>
 <!-------------------------->
